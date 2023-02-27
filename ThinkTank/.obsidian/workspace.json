@@ -27,8 +27,12 @@
             "id": "42c76b8b6ca63abe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1-日誌/2023-02-27.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -98,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-日誌/2023-02-27.md"
+              }
             }
           }
         ]
@@ -114,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-日誌/2023-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-日誌/2023-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
