@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "e40270a370f7a146",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c8f6fb931d06e2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b680fbb090a834",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0709313bbe0badb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "42c76b8b6ca63abe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b0aec6470542950",
+    "type": "split",
+    "children": [
+      {
+        "id": "47f55a107835b01b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83c10dd4a9355e0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2b073c4bb83f888",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "feafaceba68bd096",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5
+  },
+  "right": {
+    "id": "357325e50da9a4c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f38d128f6ce7b1fd",
+        "type": "tabs",
+        "dimension": 47.91666666666666,
+        "children": [
+          {
+            "id": "535a71e2931a59cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a535a7a38b8b3bf",
+        "type": "tabs",
+        "dimension": 52.08333333333334,
+        "children": [
+          {
+            "id": "6c53ef46d521cf60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b9d7eb086613b8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfd47e924fcbe7fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b502bad5e9ec5639",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c79a11f2e61bc2bf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "42c76b8b6ca63abe",
+  "lastOpenFiles": [
+    "4-投資理財/交易週報.md",
+    "1-閃念筆記/讓 ChatGPT 解釋何謂「變數」.md",
+    "4-投資理財/你偏好多大程度的波動？.md",
+    "4-投資理財/網格交易的最佳進場時機.md",
+    "4-投資理財/超級簡單實用的景氣燈號大波段操作法.md",
+    "4-投資理財/專注個股、別管大盤指數？須知覆巢之下無完卵.md",
+    "4-投資理財/借錢買股票與槓桿操作.md",
+    "4-投資理財/股票投資理念.md",
+    "4-投資理財/投資機會必經的四個階段.md",
+    "2-文獻筆記/《卡片盒筆記》.md",
+    "1-閃念筆記/美債殖利率對債券價格的影響.md",
+    "4-投資理財/聯發科殖利率 10.5%，買不買？.md",
+    "0-日誌/2023-02-23.md",
+    "4-投資理財/股市雜談/2022 Q4 巴菲特除了減持台積電 86%，還有哪些倉位變動？.md",
+    "4-投資理財/attachments/2454-dividend-history.png",
+    "4-投資理財/attachments/2454-weekly-diagram-20230224.png",
+    "4-投資理財/attachments/2454-price-diagram-20230224.png",
+    "1-閃念筆記/Wiki 連結 vs. Markdown 連結.md",
+    "4-投資理財/大到不能倒的銀行.md",
+    "4-投資理財/attachments/2023-02-景氣燈號.png",
+    "4-投資理財/attachments/2022-11-景氣燈號.png",
+    "1-閃念筆記/我的 Obsidian 筆記.md",
+    "0-日誌/attachments/2023-02-23-玉山金股利大減與增資.png",
+    "0-日誌/attachments",
+    "5-生產力/Obsidian/我如何使用 Obsidian 來幫助學習與寫作.md",
+    "5-生產力/Obsidian/attachments/obsidian-options-editor-mode.png",
+    "5-生產力/Obsidian/attachments/obsidian-live-preview-vs-source-mode.png",
+    "Y-影片劇本/Obsidian 必知必學-1：基礎觀念、安裝、初始設定.md",
+    "5-生產力/Obsidian/Obsidian 必知必學.md",
+    "X-主題索引/Obsidian 筆記整理術.md",
+    "1-閃念筆記/下跌是對未來倉位的利多.md",
+    "1-閃念筆記/attachments/2023-02-23-下跌是對未來倉位的利多.png",
+    "6-食衣住行/手機條碼.md",
+    "1-閃念筆記/如何做出有用的筆記.md",
+    "1-閃念筆記/網格交易有兩種.md",
+    "X-主題索引/我的投資術.md"
+  ]
+}
